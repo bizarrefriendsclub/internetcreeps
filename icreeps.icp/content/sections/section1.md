@@ -25,7 +25,5 @@ Aesthetic-based Value (not traits)\
 Organic Community & Culture\
 Quality > Quantity 
 ### Check out the latest sneak peeks on Twitter! 
-{{< socialhandles >}}
-    {{< twitter user="stream_running" >}}
-{{< /socialhandles >}}
+
 ## *Discord Coming Soon...*
