@@ -1,0 +1,3 @@
+[submodule "icreeps.icp/themes/hugograyscale"]
+	path = icreeps.icp/themes/hugograyscale
+	url = https://github.com/bizarrefriendsclub/hugograyscale.git
